@@ -1,8 +1,8 @@
 {
   "name": "@cauli/mailer",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "private": false,
-  "description": "NestJS - a mailer module (@mailer)",
+  "description": "Temporary fork of NestJS - a mailer module (@mailer)",
   "keywords": [
     "nest",
     "nodemailer",
