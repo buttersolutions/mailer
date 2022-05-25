@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.2](https://github.com/nest-modules/mailer/compare/v1.6.1...v1.6.2) (2022-05-25)
+
+
+### Features
+
+* Add possibility to specify extra providers ([#762](https://github.com/nest-modules/mailer/issues/762)) ([680c67f](https://github.com/nest-modules/mailer/commit/680c67fd5618909b6705eb1c73bd55d6b94ac76c))
+
+
+### Bug Fixes
+
+* **deps:** update dependency glob to v7.2.0 ([222e701](https://github.com/nest-modules/mailer/commit/222e701642b93d5d90d023307a4c0bdf0a533944))
+* **deps:** update dependency nodemailer to v6.7.2 ([7638b01](https://github.com/nest-modules/mailer/commit/7638b01f9ec8bcded5b320766be65477adab024d))
+* **deps:** update dependency rxjs to v7.4.0 ([8fb17f1](https://github.com/nest-modules/mailer/commit/8fb17f17f7ab0253f3c0620fe91c6dbbd578d9f2))
+* no error handling for inlineCss ([c232e75](https://github.com/nest-modules/mailer/commit/c232e752d77c521076583a489a7ccc214df13803))
+
 ### [1.6.1](https://github.com/nest-modules/mailer/compare/v1.6.0...v1.6.1) (2021-12-30)
 
 
